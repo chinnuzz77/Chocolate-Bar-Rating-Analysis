@@ -14,10 +14,10 @@ Flavors of Cacao Rating System:
 # programming Language
 python 
 # packages
- pandas as pd
+pandas as pd
 numpy as np
- matplotlib.pyplot as plt
- seaborn as sns
+matplotlib.pyplot as plt
+seaborn as sns
  # Data source
  https://www.kaggle.com/rtatman/chocolate-bar-ratings
  # conclusions and insights
